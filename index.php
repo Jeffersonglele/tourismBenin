@@ -143,32 +143,32 @@
         document.addEventListener('DOMContentLoaded', function() {
             const slides = [
                 {
-                    image: '1.jpg',
+                    image: 'assets/images/1s.jpg',
                     title: 'Section 1',
                     description: 'Restitution des objets royaux'
                 },
                 {
-                    image: '2.jpg',
+                    image: 'assets/images/2s.jpg',
                     title: 'Section 2',
                     description: 'Yves Appolinaire Pèdé est né en 1959 au Bénin et est décédé en 2019.\nSon œuvre reprend l\'héritage de l\'art de cour de l\'ancien royaume du Danxomè, notamment l\'appliqué sur toile rendu célèbre par la famille Yèmadjè.'
                 },
                 {
-                    image: '5.jpg',
+                    image: 'assets/images/5s.jpg',
                     title: 'Section 3',
                     description: 'Euloge Ahanhanzo-Glèlè nous fait découvrir l\'âme du Bénin avec ses sculptures en terre cuite, inspirées de l\'histoire. Un hommage vibrant aux hommes et aux femmes qui bâtissent notre héritage.'
                 },
                 {
-                    image: '6.jpg',
+                    image: 'assets/images/6s.jpg',
                     title: 'Section 4',
                     description: 'Des œuvres d\'art en métal pillées par des soldats coloniaux français lors d\'une exposition d\'objets béninois saisis à la présidence à Cotonou (Bénin), le 18 février 2022.'
                 },
                 {
-                    image: '7.jpg',
+                    image: 'assets/images/7s.jpg',
                     title: 'Section 5',
                     description: 'François AZIANGUÉ\nNé en 1982 au Togo, François Aziangué s\'oriente d\'abord vers la soudure avant de s\'en détourner pour se lancer dans la création artistique.\nL\'abnégation dont elles font montre dans toutes les situations inspire à François Aziangué ses sculptures à leur effigie. On ne peut toutefois pas s\'empêcher de voir dans l\'histoire sculptée de ces femmes altières, de ces Demoiselles d\'Abomey, un pied de nez respectueux à d\'autres demoiselles, celles d\'Avignon d\'un certain Pablo Picasso.'
                 },
                 {
-                    image: '9.jpg',
+                    image: 'assets/images/9.jpg',
                     title: 'Section 6',
                     description: 'Siège du roi Béhanzin en vitrine'
                 }

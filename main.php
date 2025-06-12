@@ -51,7 +51,7 @@
                     Le Bénin est le berceau de traditions uniques, du culte Vaudou aux danses folkloriques en passant par les arts sculpturaux. Une immersion inoubliable vous attend !
                 </p>
             </div>
-            <img src="assets/images/Tradition.jpeg" alt="Culture" class="rounded-xl shadow-lg hover:scale-105 transition-transform duration-300 order-1 md:order-2">
+            <img src="assets/images/Egungun.jpeg" alt="Culture" class="rounded-xl shadow-lg hover:scale-105 transition-transform duration-300 order-1 md:order-2">
         </div>
     </section>
 
